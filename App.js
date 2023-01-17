@@ -5,7 +5,7 @@ import StartGameScreen from "./screens/StartGameScreen";
 
 export default function App() {
   return (
-    <LinearGradient colors={[ '#34e0329', '#ddb52f' ]} style={styles.screen}>
+    <LinearGradient colors={[ '#4e0329', '#ddb52f' ]} style={styles.screen}>
       <StartGameScreen />
       </LinearGradient>
     
